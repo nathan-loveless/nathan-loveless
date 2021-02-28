@@ -10,12 +10,12 @@ I am a full-stack engeineer that is passionate about working with startups and s
 * You can contact me at <nathan.loveless@outlook.com>
 
 ### Skills
-JavaScript
-C++
-C#
-React
-Node
-Express
-MongoDB
-AWS Amplify
-Google Cloud
+- JavaScript
+- C++
+- C#
+- React
+- Node
+- Express
+- MongoDB
+- AWS Amplify
+- Google Cloud
